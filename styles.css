@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+img{
+	height:200px;
+	width:200px;
+}
+.row1 row2{
+	display:flex;
+}
